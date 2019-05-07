@@ -1,6 +1,4 @@
-# hungry_vue
-
-> hh
+# a middle vue project
 
 > 
 说明几点：
