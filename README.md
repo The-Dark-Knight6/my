@@ -7,7 +7,7 @@
 > 
 2、项目存在些许不完善之处请pull requests（或follow交流），欢迎一起探讨学习！
 > 
-项目运行所需要的依赖（具体安装步骤参见 百度）：
+项目运行所需要的依赖（node/npm/vue-cli/webpack基础环境）：
 >
  1、flexible 移动端rem相对单位.
  >
